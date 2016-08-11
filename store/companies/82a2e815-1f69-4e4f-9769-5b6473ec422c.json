@@ -1,0 +1,8 @@
+{
+  "company_type": "factory",
+  "name": "Test Factory",
+  "email": "test@factory.com",
+  "phone_number": "(111) 111-1111",
+  "city": "New York",
+  "state": "NY"
+}
